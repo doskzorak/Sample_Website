@@ -1,0 +1,50 @@
+body {
+    background-color: #B9F2FF;
+    font-family: sans-serif, Arial, Helvetica;
+    color: purple;
+}
+
+h1 {
+    color: orange;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ol {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav ul {
+    background-color: tomato;
+    border-style: solid;
+    border-color: mediumaquamarine;
+    border-width: 3px;
+    border-radius: 10px;
+    padding: 12px;
+    width: 75%;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: peachpuff;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+
+img {
+    border-radius: 10px;
+}
+
+iframe {
+    border-radius: 10px;
+}
